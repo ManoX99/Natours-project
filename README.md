@@ -1,0 +1,1 @@
+Css project with float layout for demonstration purposes.
